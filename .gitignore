@@ -1,0 +1,4 @@
+*~
+/quicklisp-manifest.txt
+*.fasl
+/window_ids
